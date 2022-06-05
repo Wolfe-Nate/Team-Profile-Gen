@@ -1,0 +1,28 @@
+{
+  "name": "team-profile-gen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wolfe-Nate/Team-Profile-Gen.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wolfe-Nate/Team-Profile-Gen/issues"
+  },
+  "homepage": "https://github.com/Wolfe-Nate/Team-Profile-Gen#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "jest": "^28.1.0"
+  }
+}
